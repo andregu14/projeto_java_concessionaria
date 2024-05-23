@@ -11,7 +11,7 @@ public class Carro {
 	
 	@Override
 	public String toString() {
-		return "[modelo=" + modelo + ", cor=" + cor + ", forma_pagamento=" + forma_pagamento + "]";
+		return "[Modelo=" + modelo + ", Cor=" + cor + ", Forma de pagamento=" + forma_pagamento + "]";
 	}
 	
 	

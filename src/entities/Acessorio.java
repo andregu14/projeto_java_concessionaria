@@ -12,4 +12,13 @@ public class Acessorio {
 	public void rem_quant(int quant) {
 		this.quantidade -= quant;
 	}
+
+	@Override
+	public String toString() {
+		return "[Nome=" + nome + ", Quantidade=" + quantidade + "]";
+	}
+
+
+	
+	
 }
