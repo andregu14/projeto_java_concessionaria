@@ -98,7 +98,7 @@ public class Programa {
 				// salva a forma de pagamento
 				carro.forma_pagamento = carro.pagamentoOpcao[numeroEscolhido];
 				System.out.println("A forma de pagamento selecionada foi " + carro.forma_pagamento);
-				
+
 				System.out.println(carro);
 				break;
 
